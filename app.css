@@ -1,0 +1,12 @@
+form{
+   padding-top: 20px;
+}  
+
+.error {
+    border: 1px solid red;
+  }
+  .error-message {
+    color: red;
+    font-size: 20px;
+    margin-top: 5px;
+  }
